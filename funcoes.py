@@ -1,0 +1,1 @@
+self.tarefa_entry = tk.Entry(self.janela, width=40)

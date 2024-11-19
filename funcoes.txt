@@ -1,0 +1,5 @@
+quadrados = [x**2 for x in range(1,11)]
+
+quadrados_maiores_que_20 = [x for x in quadrados if x>20]
+
+print(quadrados_maiores_que_20)
